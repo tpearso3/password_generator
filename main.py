@@ -10,9 +10,9 @@ class password_generator:
 
 
 def password_generator_program():
-    password = password_generator("Tanner")
-    password2 = password_generator("Matthew")
-    password3 = password_generator("Brittni")
+    password = password_generator("grass")
+    password2 = password_generator("tree")
+    password3 = password_generator("bush")
     password_manager = list()
     password_manager.append(password)
     password_manager.append(password2)
